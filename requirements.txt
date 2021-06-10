@@ -4,7 +4,7 @@ chardet==3.0.4
 Click==7.0
 coverage==4.5.4
 dataclasses==0.7
-fastapi==0.44.1
+fastapi==0.65.2
 h11==0.8.1
 httptools==0.0.13
 idna==2.8
